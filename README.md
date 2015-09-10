@@ -17,7 +17,7 @@ djangorestframework==3.2.3
 Neste teste utilizei SQLITE3
 
 #Initial Data
-Caso queira já testar a aplicacao, foi criado uma fixture com dados iniciais
+Foi criado uma fixture com dados iniciais
 
 Comando: python manage.py loaddata /teste/fixtures/initial_data.json
 
