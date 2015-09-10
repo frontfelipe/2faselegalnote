@@ -16,7 +16,10 @@ djangorestframework==3.2.3
 #Setup BD
 Neste teste utilizei SQLITE3
 
-Na raiz do projeto se encontra a carga inicial com usuario e processos (temp.db)
+#Initial Data
+Caso queira já testar a aplicacao, foi criado uma fixture com dados iniciais
+
+Comando: python manage.py loaddata /teste/fixtures/initial_data.json
 
 #Email localhost
 Execute o comando a seguir para iniciar o servidor localhost de email
