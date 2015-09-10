@@ -20,6 +20,8 @@ Neste teste utilizei SQLITE3
 Foi criado uma fixture com dados iniciais
 
 Comando: python manage.py loaddata /teste/fixtures/initial_data.json
+         
+         python manage.py migrate
 
 #Email localhost
 Execute o comando a seguir para iniciar o servidor localhost de email
