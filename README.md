@@ -19,7 +19,7 @@ Neste teste utilizei SQLITE3
 #Initial Data
 Foi criado uma fixture com dados iniciais
 
-Comando: python manage.py loaddata /teste/fixtures/initial_data.json
+         python manage.py loaddata /teste/fixtures/initial_data.json
          
          python manage.py migrate
 
